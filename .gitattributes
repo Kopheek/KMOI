@@ -1,2 +1,2 @@
-*.cod linguist-language=Java
-*.508 linguist-language=Assembler
+*.cod linguist-language=Assembly
+*.508 linguist-language=Assembly
